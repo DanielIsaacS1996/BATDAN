@@ -1,0 +1,3 @@
+con este proyecto se implemento programacion orientada a objetos,
+logica de eventos para la version 3.8 de python. por favor al ejecutar
+introducir la tecla "P" para ver las instrucciones.
